@@ -13,4 +13,12 @@ int loadVals(int array[]);
 
 void reversePrint(int array[], int arrayLength);
 
+int countVowels(char array[]);
+
+int analyzeValues(double array[], int arraySize);
+
+int performOperation (char operation, int integer1, int integer2);
+
+void getMinMax(int integerArray[], int arraySize, int* intPointerMin, int* intPointerMax);
+
 #endif
